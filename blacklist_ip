@@ -3,10 +3,10 @@
 37.49.231.113 winbox bruteforce
 37.49.231.112 winbox bruteforce
 162.216.234.55 winbox bruteforce
-185.232.67.13 pptp bruteforce (Sht)
-46.161.27.42 pptp bruteforce (Sht)
+185.232.67.13 pptp bruteforce
+46.161.27.42 pptp bruteforce
 141.98.80.115 winbox bruteforce
-183.60.122.22 pptp bruteforce (Sht)
+183.60.122.22 pptp bruteforce
 183.60.254.134 ipsec bruteforce
 60.191.0.242 ipsec bruteforce
 203.91.118.180 ipsec bruteforce
@@ -38,3 +38,16 @@
 83.250.209.105 ipsec bruteforce
 197.159.178.152  ipsec bruteforce
 184.75.221.50 ipsec bruteforce
+45.83.67.111 ipsec bruteforce (Alpha Strike Labs GmbH)
+74.82.47.60 ipsec bruteforce
+65.49.20.117 ipsec bruteforce
+45.79.82.118 ipsec bruteforce
+184.105.247.206 ipsec bruteforce
+184.105.247.199 ipsec bruteforce
+184.105.139.80 ipsec bruteforce
+184.105.139.90 ipsec bruteforce
+65.49.20.106 ipsec bruteforce
+65.49.20.100 ipsec bruteforce
+65.49.20.98 ipsec bruteforce
+65.49.20.91 ipsec bruteforce
+216.218.206.96 ipsec bruteforce
