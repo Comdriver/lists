@@ -8,6 +8,7 @@
 46.161.27.122 pptp bruteforce
 60.191.0.242 ipsec bruteforce
 60.191.52.254 pptp bruteforce
+62.217.186.212 ipsec bruteforce
 64.62.197.0/24 ipsec bruteforce REP_CASE (ShadowServer)
 65.49.20.64/26 ipsec bruteforce REP_CASE (ShadowServer)
 71.6.199.23 pptp bruteforce REP_CASE
@@ -18,11 +19,14 @@
 80.92.229.229 ipsec bruteforce
 83.250.209.105 ipsec bruteforce
 92.63.194.0/24 pptp bruteforce
-92.63.194.27 pptp bruteforce
+95.29.186.54 ipsec bruteforce
+95.84.192.141 ipsec bruteforce
 107.173.193.195 winbox bruteforce
 113.160.116.90 winbox bruteforce
+116.68.74.213
 119.146.201.94 ipsec bruteforce
 119.146.201.106 ipsec bruteforce
+122.55.253.90
 122.228.19.79 pptp bruteforce
 124.158.167.154 winbox bruteforce
 138.197.88.135 pptp bruteforce
@@ -33,11 +37,13 @@
 152.32.77.90 ipsec bruteforce
 162.216.234.55 winbox bruteforce
 162.243.143.129 pptp bruteforce
+162.253.130.178
+176.10.161.27
 183.60.122.22 pptp bruteforce
 183.60.254.134 ipsec bruteforce
 184.75.221.50 ipsec bruteforce
-184.105.139.64/26 REP_CASE (ShadowServer)
-184.105.247.192/26 REP_CASE (ShadowServer)
+184.105.139.64/26 ipsec bruteforce REP_CASE (ShadowServer)
+184.105.247.192/26 ipsec bruteforce REP_CASE (ShadowServer)
 185.38.48.110 pptp bruteforce
 185.232.67.5 ssh
 185.232.67.13 pptp bruteforce
