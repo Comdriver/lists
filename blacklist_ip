@@ -9,8 +9,8 @@
 60.191.0.242 ipsec bruteforce
 60.191.52.254 pptp bruteforce
 62.217.186.212 ipsec bruteforce
-64.62.197.0/24 ipsec bruteforce REP_CASE (ShadowServer)
-65.49.20.64/26 ipsec bruteforce REP_CASE (ShadowServer)
+64.62.197.0/24 ipsec bruteforce (ShadowServer)
+65.49.20.64/26 ipsec bruteforce (ShadowServer)
 71.6.199.23 pptp bruteforce REP_CASE
 74.82.47.60 ipsec bruteforce
 77.94.127.10 winbox bruteforce
@@ -42,8 +42,8 @@
 183.60.122.22 pptp bruteforce
 183.60.254.134 ipsec bruteforce
 184.75.221.50 ipsec bruteforce
-184.105.139.64/26 ipsec bruteforce REP_CASE (ShadowServer)
-184.105.247.192/26 ipsec bruteforce REP_CASE (ShadowServer)
+184.105.139.64/26 ipsec bruteforce (ShadowServer)
+184.105.247.192/26 ipsec bruteforce (ShadowServer)
 185.38.48.110 pptp bruteforce
 185.232.67.5 ssh
 185.232.67.13 pptp bruteforce
@@ -52,5 +52,7 @@
 203.91.118.180 ipsec bruteforce
 203.91.119.42 ipsec bruteforce
 212.55.72.77 ipsec bruteforce
-216.218.206.64/26 ipsec bruteforce REP_CASE (ShadowServer)
+216.218.206.64/26 ipsec bruteforce (ShadowServer)
 216.245.225.202 winbox bruteforce
+162.142.125.0/24 ipsec bruteforce (Censys, Inc.)
+194.187.176.0/22 ipsec bruteforce (Alpha Strike Labs GmbH)
